@@ -2074,6 +2074,7 @@
     <title lang="es">Los protagonistas</title>
   </programme>
 </tv>
+  </channel>  
   <channel id="Canal Bandamax">
     <display-name lang="es">Bandamax</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png" />
